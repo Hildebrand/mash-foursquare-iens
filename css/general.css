@@ -1,0 +1,18 @@
+body {
+	padding-top: 50px;
+}
+.alert {
+	display: none;
+}
+.control-group label {
+	width: 80px !important;
+}
+.controls {
+	margin-left: 100px !important;
+}
+#inputSearchstring, #inputLocation {
+	width: 93% !important;
+}
+label.checkbox, #iens {
+	vertical-align: baseline !important;
+}
