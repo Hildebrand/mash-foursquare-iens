@@ -31,7 +31,7 @@
 </div>
 <div class="row">
 	<div class="span12">
-		<img src="img/fork.png" style="margin-left: auto; margin-right: auto; width: 775px; display: block;" />
+		<a href="https://github.com/Hildebrand/mash-foursquare-iens"><img src="img/fork.png" style="margin-left: auto; margin-right: auto; width: 775px; display: block;" /></a>
 	</div>
 </div>
 
